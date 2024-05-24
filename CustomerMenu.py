@@ -6,6 +6,7 @@ from tkinter import ttk
 from tkinter import simpledialog
 from tkinter import filedialog
 import math
+import sqlite3
 
 # Declared custom colours for the selected shapes on the first window for ease of use
 # and to avoid having to remember the hex values
@@ -484,6 +485,29 @@ class MenuPanel(Frame): # Menu Panel for the customer screen
                 with open(file_path, "a") as file:
                     file.write(f"\nCustomer Name: {text_to_append}\nShape: {shape}\nPattern: {self.combo_var.get()}\nColour: {self.colour_var.get()}\nBow: {self.bow_var.get()}\nNo Gift Tag: {self.no_tag_var.get()}\nGift Tag Text: {self.gift_tag_var.get()}\nArea: {area}cm2\nLetter Count Cost: £{letter_count_cost}\nFinal Cost: £{final_cost_formatted}\nBooking Date: {self.booking_calendar.get_date()}\nBooking Time: {self.booking_time_var.get()}\nCollection Date: {self.collection_calendar.get_date()}\nCollection Time: {self.collection_time_var.get()}\n")
                     messagebox.showinfo("File Saved", f"File saved to {file_path}")
+        
+        # SQLite3 Database
+        conn = sqlite3.connect("orders.db")
+        create_query = '''CREATE TABLE IF NOT EXISTS orders
+        (id INTEGAR PRIMARY KEY,
+        shape TEXT,
+        pattern TEXT,
+        colour TEXT,
+        bow TEXT,
+        no_tag TEXT,
+        gift_tag TEXT,
+        area REAL,
+        letter_count_cost REAL,
+        final_cost REAL,
+        booking_date TEXT,
+        booking_time TEXT,
+        collection_date TEXT,
+        collection_time TEXT)'''
+
+        conn.execute(create_query)
+        conn.close()
+
+
 
     # Function to edit the order details
     def edit_file(self):
