@@ -19,5 +19,5 @@ In this assignment, I have designed a application for a gift wrapping service to
 6. Save the design or reset to start over.
 
 ## Screenshots
-)![HomePage](https://github.com/user-attachments/assets/33471980-4c9b-46e1-bc2b-0fd1ae80c8e1)
+![HomePage](https://github.com/user-attachments/assets/33471980-4c9b-46e1-bc2b-0fd1ae80c8e1)
 
