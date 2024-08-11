@@ -8,6 +8,7 @@ In this assignment, I have designed a application for a gift wrapping service to
  - Clone Repository 
  - Python 3.x
  - Tkinter
+ - sqlite3 database
 
 ## Usage
 1. Launch the application using the instructions in the Installation section.
