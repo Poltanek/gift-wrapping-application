@@ -9,3 +9,13 @@ In this assignment, I have designed a application for a gift wrapping service to
 ### Prequisites
  - Python 3.x
  - Tkinter
+
+## Usage
+1. Launch the application using the instructions in the Installation section.
+2. Select your desired wrapping paper from the dropdown menu.
+3. Choose a ribbon style and color.
+4. Add a tag with a personalized message.
+5. Click the 'Preview' button to see the wrapped gift.
+6. Save the design or reset to start over.
+
+## Screenshots
