@@ -20,5 +20,5 @@ In this assignment, I have designed a application for a gift wrapping service to
 
 ## Screenshots
 
-![awdasd](![HomePage](https://github.com/user-attachments/assets/01295762-8a0d-4ff4-ac90-fec3a4dd6aa0)
+![Home_Page](![HomePage](https://github.com/user-attachments/assets/01295762-8a0d-4ff4-ac90-fec3a4dd6aa0)
 )
