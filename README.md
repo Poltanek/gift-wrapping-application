@@ -24,3 +24,8 @@ In this assignment, I have designed a application for a gift wrapping service to
 ![HomePage](https://github.com/user-attachments/assets/33471980-4c9b-46e1-bc2b-0fd1ae80c8e1)
 ![Menu](https://github.com/user-attachments/assets/f3609b41-31b3-4db9-97e1-4661d8ce41e1)
 ![Booking Window](https://github.com/user-attachments/assets/0ad23d3e-d79e-4c29-a72c-de00d9a414b3)
+
+## Contributions!
+
+Contributions are welcome! 
+Please fork this repo and submit a pull request with your improvements!
