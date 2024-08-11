@@ -15,8 +15,10 @@ In this assignment, I have designed a application for a gift wrapping service to
 2. Select your desired wrapping paper from the dropdown menu.
 3. Choose a ribbon style and color.
 4. Add a tag with a personalized message.
-5. Click the 'Preview' button to see the wrapped gift.
-6. Save the design or reset to start over.
+5. Complete your order 
+6. Book your date and time within the booking window
+7. text file output will save the data in selected file or create a new file.
+8. data will be then sent to a sqlite3 database. 
 
 ## Screenshots
 ![HomePage](https://github.com/user-attachments/assets/33471980-4c9b-46e1-bc2b-0fd1ae80c8e1)
