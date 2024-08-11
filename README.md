@@ -7,7 +7,7 @@ In this assignment, I have designed a application for a gift wrapping service to
 ## Installation & Prerequisites
  - Clone Repository 
  - Python 3.x
- - Tkinter
+ - Tkinter, tkcalendar, datetime, maths, and sqlite3
  - sqlite3 database
 
 ## Usage
