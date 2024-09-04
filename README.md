@@ -18,6 +18,17 @@ In this assignment, I have designed a application for a gift wrapping service to
 7. text file output will save the data in selected file or create a new file.
 8. data will be then sent to a sqlite3 database. 
 
+## Content Outline
+In the second summative assignment, students will be required to demonstrate the development of their system within the language covered within the module. Students will be expected to discuss updates from their initial designs (based on the feedback received from the first assignment), develop the application, and testing of the application. 
+
+I've Applied: 
+- Programming Paradigms 
+- Software Development Lifecycles 
+- Variables and their Scope 
+- Control Structures 
+- Code Quality 
+- Errors and Debugging 
+
 ## Screenshots
 ![HomePage](https://github.com/user-attachments/assets/33471980-4c9b-46e1-bc2b-0fd1ae80c8e1)
 ![Menu](https://github.com/user-attachments/assets/f3609b41-31b3-4db9-97e1-4661d8ce41e1)
