@@ -29,6 +29,20 @@ I've Applied:
 - Code Quality 
 - Errors and Debugging 
 
+
+# UML Diagrams 
+
+## Activity Diagram
+![image](https://github.com/user-attachments/assets/92a93a82-0a94-46e7-8869-9b5b0c1f5c5a)
+
+
+
+
+## Class Diagram
+
+### Order Processing System
+![image](https://github.com/user-attachments/assets/176b5eb5-db06-4c38-ba2c-5b0c5e6b274b)
+
 ## Screenshots
 ![HomePage](https://github.com/user-attachments/assets/33471980-4c9b-46e1-bc2b-0fd1ae80c8e1)
 ![Menu](https://github.com/user-attachments/assets/f3609b41-31b3-4db9-97e1-4661d8ce41e1)
